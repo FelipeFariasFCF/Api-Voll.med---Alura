@@ -1,6 +1,3 @@
-<h1 align="center">
-📄<br>README Template
-</h1>
 
 ## 📚 Formação Java e Spring Boot - ALURA
 
@@ -8,12 +5,12 @@ Projeto de uma clínica médica fictícia, uma empresa chamada Voll Med, que pos
 
 Será um aplicativo com algumas opções, em que a pessoa que for usar pode fazer o CRUD, tanto de médicos quanto de pacientes e o agendamento e cancelamento das consultas.
 
-> Código reescrito da Formação https://cursos.alura.com.br/formacao-spring-boot-3
+>📄 Código reescrito da Formação: https://cursos.alura.com.br/formacao-spring-boot-3
 
 > Ferramentas utilizadas:
-> Spring Boot 3
-> Java 17
-> Lombok
-> MySQL/ Flyway
-> JPA/Hibernate
-> Maven
+<br>Spring Boot 3
+<br>Java 17
+<br>Lombok
+<br>MySQL/ Flyway
+<br>JPA/Hibernate
+<br>Maven
