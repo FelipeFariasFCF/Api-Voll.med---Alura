@@ -14,3 +14,4 @@ Será um aplicativo com algumas opções, em que a pessoa que for usar pode faze
 <br>MySQL/ Flyway
 <br>JPA/Hibernate
 <br>Maven
+<br>OpenAPI
